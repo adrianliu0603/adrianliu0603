@@ -12,10 +12,7 @@ In addition to my technical skills, I have hands-on experience with popular UI l
 | Responsive design, Bootstrap, TailwindCSS       | Java SpringBoot, RESTful APIs, GraphQL, OAuth                 | Machine Learning                                          | Google Cloud    | Docker     |
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable                                                          | Azure           | Kubernetes |
 
- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
-    
+
 <!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
 - 📝 Email : sgirad86@gmail.com -->
 
@@ -46,6 +43,14 @@ In addition to my technical skills, I have hands-on experience with popular UI l
 <!-- [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=FullstackWEB-developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=FullstackWEB-developer&theme=github&count_private=true) -->
 
 <div align="center"/>
+
+
+
+<div>
+<img style="height: 150px" align="left" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide=html&hide_title=true&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV -->
+
+<img style="height: 150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livebcdev0603&layout=compact&theme=maroongold&include_all_commits=true" /> <br/>
+</div>
 
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=adamalston)
