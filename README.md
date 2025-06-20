@@ -12,7 +12,7 @@ In addition to my technical skills, I have hands-on experience with popular UI l
 | :---------------------------------------------- | :-----------------------------------------------------| :-------------------------------------------------------- | :-------------- | :--------- |
 | HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, Python & Django & Flask & FastApi| Blockchain                                                | AWS             | CI/CD      |
 | Responsive design, Bootstrap, TailwindCSS       | Java SpringBoot, RESTful APIs, GraphQL, OAuth                 | Machine Learning                                          | Google Cloud    | Docker     |
-| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable                                                          | Azure           | Kubernetes | n8n
+| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable                                                          | Azure           | Kubernetes | n8n | 
 
 
 <!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
