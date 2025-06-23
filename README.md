@@ -6,6 +6,7 @@ In addition to my technical skills, I have hands-on experience with popular UI l
 
 ### Technical Skills:
 
+
 | Front-End                                       | Back-End                                              | Emerging Tech                                             | Cloud Platforms | DevOps     |
 | :---------------------------------------------- | :-----------------------------------------------------| :-------------------------------------------------------- | :-------------- | :--------- |
 | HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, Python & Django & Flask & FastApi| Blockchain                                                | AWS             | CI/CD      |
