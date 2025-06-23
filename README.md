@@ -13,7 +13,6 @@ In addition to my technical skills, I have hands-on experience with popular UI l
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable           | Azure           | n8n       |
                                                                                                                                                                      
 
-
 <!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
 - 📝 Email : sgirad86@gmail.com -->
 
