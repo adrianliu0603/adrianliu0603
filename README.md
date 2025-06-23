@@ -4,7 +4,6 @@ I am a dedicated and passionate softwareengineer with over 10 years of experienc
 <br><br>
 In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI, and I leverage cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications. My portfolio showcases my ability to transform design prototypes into functional applications that align with business goals. I am committed to delivering high-quality solutions and look forward to collaborating on projects that create impactful results.
 
-
 ### Technical Skills:
 
 | Front-End                                       | Back-End                                              | Emerging Tech                                             | Cloud Platforms | DevOps     |
