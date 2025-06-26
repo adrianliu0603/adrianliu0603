@@ -1,6 +1,4 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
 I am a dedicated and passionate softwareengineer with over 10 years of experience, specializing in front-end development with modern frameworks like React, Next.js, and Vue, alongside back-end development using Python and decentralized application (dApp) development with web3 integration. My expertise extends to delivering numerous successful projects utilizing technologies such as Next.js and Flutter, ensuring that each application is responsive and visually appealing across all devices.
 <br>
 <br>
