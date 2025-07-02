@@ -40,7 +40,6 @@ I'm a professional and passionate software engineer with over 10 years of work e
 
 <div>
 <img style="height: 150px" align="left" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide=html&hide_title=true&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV -->
-
 <img style="height: 150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superalive1005&layout=compact&theme=maroongold&include_all_commits=true" /> <br/>
 </div>
 
