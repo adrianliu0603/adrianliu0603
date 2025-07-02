@@ -8,9 +8,6 @@ I'm a professional and passionate software engineer with over 10 years of work e
 | Responsive design, Bootstrap, TailwindCSS       | Java SpringBoot, RESTful APIs, GraphQL, OAuth         | Machine Learning                                          | Google Cloud    | Docker, Kubernetes|
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable           | Azure           | n8n       |
                                                                                                                                                                      
-<!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
-- 📝 Email : sgirad86@gmail.com -->
-
 <!-- 💗 **My Favorites Techs:**
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
