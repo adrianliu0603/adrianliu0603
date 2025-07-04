@@ -9,6 +9,7 @@ I'm a professional and passionate software engineer with over 10 years of work e
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable           | Azure           | n8n       |
                                                                                                                                                                      
 <!-- 💗 **My Favorites Techs:**
+
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
