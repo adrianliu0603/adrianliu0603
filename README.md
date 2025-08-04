@@ -10,7 +10,7 @@ I have also utilized cloud platforms such as Google Firebase and Amazon Web Serv
 | HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, Python & Django & Flask & FastApi| Blockchain                                                | AWS             | CI/CD      |
 | Responsive design, Bootstrap, TailwindCSS       | Java SpringBoot, RESTful APIs, GraphQL, OAuth         | Machine Learning                                          | Google Cloud    | Docker, Kubernetes|
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                            | AI Tools: OpenAI & Claude & DeepSeek & Loveable           | Azure           | n8n       |
-                                                                                                                                                                     
+
 <!-- 💗 **My Favorites Techs:**
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
